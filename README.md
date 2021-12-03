@@ -1,7 +1,7 @@
 # (Twowaits Internship November 2021)
 ## React website deployed on Heroku: 
 ### Link-> https://krispace.herokuapp.com/
-### Certificate-> https://bit.ly/3DixoZt
+### Certificate-> https://drive.google.com/file/d/1ODfv1f9SBRYEDsVWifXn-OdZMy7kylG2/view
 
 
 
